@@ -40,6 +40,7 @@ def main():
             print('The encoded password is',final_value, 'and the original password is', display_value, '.')
         if option == 3:
             False
+            break
 
 
 if __name__ == '__main__':
